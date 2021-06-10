@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="padilo.pro">
+    <serverData>
+      <paths name="padilo.pro">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/padilo.pro/calc_price_padilo" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

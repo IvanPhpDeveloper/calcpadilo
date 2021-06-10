@@ -1,0 +1,10 @@
+.ico-red{
+    color: #ff6464;
+}
+
+.removeCategory{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+}
